@@ -3,10 +3,7 @@
 My name is Devesh.
  - I am a fully self-taught full-stack developer.
  - I currently use React for and React Native for front-end development.
- - I am on the track to learn more about proper UI-UX design with Adobe XD for developing attractive and large fully functioning apps.
  - I am currently working on couple big personal projects related to making our everyday lives bit more informed and convenient and I plan to make one of them open-source.
- - I used to freelance as a video editor and web-developer a year ago so I am very familiar with DaVinci Resolve and the Adobe CC Apps like Premiere Pro, After Effects, Audition and Photoshop.
- - I like to write music so I spend my free time in Ableton Live.
  - You can email me at [deves125@gmail.com](mailto:deves125@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
