@@ -1,4 +1,6 @@
-### Hi Everyone
+<div align="center">
+   <h1>Hi there, I'm <a href="https://devesh.org">Devesh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 My name is Devesh.
  - I am a fully self-taught full-stack developer.
@@ -7,16 +9,19 @@ My name is Devesh.
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=Go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=SQL)&nbsp;
 
-
+#### Technologies
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=3DDC84)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=3DDC84)&nbsp;
 ![ThreeJS](https://img.shields.io/badge/-Three.js-05122A?style=for-the-badge&logo=Three.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 
