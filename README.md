@@ -26,13 +26,21 @@ My name is Devesh.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
+![Redux](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql&logoColor=311C87)&nbsp;
 
+
+#### Tools
+![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=for-the-badge&logo=VisualStudioCode)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-05122A?style=for-the-badge&logo=AndroidStudio)&nbsp;
+![AndroidStudio](https://img.shields.io/badge/-IntelliJ_IDEA-05122A?style=for-the-badge&logo=IntelliJIDEA)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![VIM](https://img.shields.io/badge/-VIM-05122A?style=for-the-badge&logo=vim)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm)&nbsp;
 
 
 
@@ -40,4 +48,5 @@ My name is Devesh.
 
 
 
-![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=d-e-v-esh)
+![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=d-e-v-esh&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-e-v-esh&theme=dark)](https://git.io/streak-stats)
