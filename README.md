@@ -4,7 +4,6 @@
 
 My name is Devesh.
  - I am a self-taught full-stack developer.
- - I currently use React for and React Native for front-end development.
  - You can email me at [deves125@gmail.com](mailto:deves125@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
