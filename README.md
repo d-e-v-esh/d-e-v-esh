@@ -44,9 +44,9 @@ My name is Devesh.
 
 
 
-<!-- java, andoird dev, scss, go, threejs,  -->
 
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=d-e-v-esh&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="Devesh's github stats" /></a> | <a href="https://github.com/d-v-e-esh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-e-v-esh&layout=compact&theme=aura&hide_border=true" />|
+| ------------- | ------------- |
+   
 
-![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=d-e-v-esh&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=d-e-v-esh&theme=dark)](https://git.io/streak-stats)
