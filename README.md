@@ -37,6 +37,7 @@ My name is Devesh.
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=for-the-badge&logo=VisualStudioCode)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-05122A?style=for-the-badge&logo=AndroidStudio)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/-IntelliJ_IDEA-05122A?style=for-the-badge&logo=IntelliJIDEA)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![VIM](https://img.shields.io/badge/-VIM-05122A?style=for-the-badge&logo=vim)&nbsp;
