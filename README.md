@@ -24,9 +24,9 @@ My name is Devesh.
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
 ![ThreeJS](https://img.shields.io/badge/-Three.js-05122A?style=for-the-badge&logo=Three.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
-![Redux](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
+
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
