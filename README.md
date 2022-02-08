@@ -24,13 +24,13 @@ My name is Devesh.
 ![ThreeJS](https://img.shields.io/badge/-Three.js-05122A?style=for-the-badge&logo=Three.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
+![SlateJS](https://img.shields.io/badge/-slate_js-05122A?style=for-the-badge&logo=slate)&nbsp;
 
 ![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
-
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql&logoColor=311C87)&nbsp;
 
 
