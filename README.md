@@ -1,5 +1,5 @@
 <div align="center">
-   <p align="center"><a href="https://devesh.org"><img width="100%" src="./Cover 2.png" /></a></p>
+   <p align="center"><a href="https://devesh.org"><img width="60%" src="./Cover 2.png" /></a></p>
 </div>
 
 My name is Devesh.
