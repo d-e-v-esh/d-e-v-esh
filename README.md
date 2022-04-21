@@ -2,7 +2,6 @@
    <p align="center"><a href="https://devesh.org"><img width="75%" src="./Cover 2.png" /></a></p>
 </div>
 
-My name is Devesh.
  - I'm a self-taught passionate FullStack developer from India
  - You can email me at [deves125@gmail.com](mailto:deves125@gmail.com)
 
