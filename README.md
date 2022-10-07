@@ -8,8 +8,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=Go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python)&nbsp;
@@ -29,6 +30,8 @@
 ![Docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![MongoDB](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql&logoColor=311C87)&nbsp;
 
@@ -40,7 +43,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![VIM](https://img.shields.io/badge/-VIM-05122A?style=for-the-badge&logo=vim)&nbsp;
+![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=for-the-badge&logo=neovim)&nbsp;
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm)&nbsp;
 
 
