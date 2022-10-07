@@ -17,24 +17,27 @@
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&logo=SQL)&nbsp;
 
 #### Technologies
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=3DDC84)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![ThreeJS](https://img.shields.io/badge/-Three.js-05122A?style=for-the-badge&logo=Three.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=3DDC84)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql&logoColor=311C87)&nbsp;
+
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled_Components-05122A?style=for-the-badge&logo=styled-components)&nbsp;
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-05122A?style=for-the-badge&logo=framer)&nbsp;
+![ThreeJS](https://img.shields.io/badge/-Three.js-05122A?style=for-the-badge&logo=Three.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![SlateJS](https://img.shields.io/badge/-slate_js-05122A?style=for-the-badge&logo=slate)&nbsp;
 
-![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
-![Docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&logo=docker)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node_Js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-05122A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-05122A?style=for-the-badge&logo=docker)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=E10098)&nbsp;
-![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=for-the-badge&logo=apollo-graphql&logoColor=311C87)&nbsp;
-
 
 #### Tools
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=for-the-badge&logo=VisualStudioCode)&nbsp;
