@@ -2,8 +2,7 @@
    <p align="center"><a href="https://devesh.org"><img width="75%" src="./Cover 2.png" /></a></p>
 </div>
 
- - I'm a self-taught passionate FullStack developer from India
- - You can email me at [deves125@gmail.com](mailto:deves125@gmail.com)
+Hello! I'm **Devesh**, a dedicated **full-stack developer** and ardent **open-source enthusiast**. My journey revolves around the relentless pursuit of knowledge and innovation within web development and programming. At present, my goal is to make substantial contributions to open-source projects, drawing invaluable insights from my experiences. I wholeheartedly believe that open-source transcends coding, encompassing relationship-building, idea exchange, and harnessing technology for the collective good. If you're intrigued by the prospect of collaborating on a project, I'd be delighted to connect.
 
 ### 🛠 &nbsp;Tech Stack
 
